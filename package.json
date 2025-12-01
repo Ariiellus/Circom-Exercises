@@ -1,0 +1,23 @@
+{
+  "name": "circom-exercises",
+  "version": "1.0.0",
+  "description": "Circom workshop exercises for learning zero-knowledge proofs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "circom",
+    "zero-knowledge-proofs",
+    "zkp",
+    "arithmetic-circuits"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "circomlib": "^2.0.5",
+    "snarkjs": "^0.7.3"
+  },
+  "devDependencies": {}
+}
+
