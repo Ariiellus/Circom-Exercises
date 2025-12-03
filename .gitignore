@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+
+# Circom compiled outputs
+*.r1cs
+*.wasm
+*.sym
+*.json
